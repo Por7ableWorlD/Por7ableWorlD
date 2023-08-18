@@ -1,13 +1,13 @@
 # Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 I'm Sasha, I study game development.  
-I can program in C++/BP under the Unreal Engine 4/5:  
+I can program in Blueprints and a bit C++ under the Unreal Engine 4/5:  
 * UMG: programming user interfaces
 * AI: programming behavior trees;  
 * Animation programming;  
 * Niagara VFX System;  
 * Writing readable, maintainable, yet fast and efficient code;  
-* Use math to solve many common coding problems;    
+* Use math to solve many common coding problems.    
 
 
 ## Skills <img src="https://user-images.githubusercontent.com/34418187/202911895-f5e9690b-9772-4c3a-8ba6-d6ad2039e3b4.gif" width="30px">
