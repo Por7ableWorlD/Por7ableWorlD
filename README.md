@@ -5,7 +5,6 @@ I can program in Blueprints/C++ under the Unreal Engine 4/5:
 * UMG: programming user interfaces
 * AI: programming behavior trees;  
 * Animation programming;  
-* Niagara VFX System;  
 * Writing readable, maintainable, yet fast and efficient code;  
 * Use math to solve many common coding problems.    
 
