@@ -18,7 +18,7 @@ I can program in Blueprints/C++ under the Unreal Engine 4/5:
 | Nikoderiko: The Magical World |25/01/2024 - present| UMG programmer in the studio [VEA Games](https://www.veagames.com/) |
 | The Golden Horde |19/12/2023 - present| Out Source C++ and UMG programmer in the studio [Doomers Entertainment](https://thegoldenhorde.uz/) |
 | The Day Before |01/05/2023 - 11/12/2023| Blueprints and UMG programmer in the studio [Fntastic](https://ru.fntastic.com/). Link to [The Day Before](https://www.daybeforegame.com/) |
-| *Not announced project* |05/03/2023 - 01/05/2023| UI Team Lead and UMG programmer in the studio [Fntastic](https://ru.fntastic.com/) |
+| *Not announced mobile project* |05/03/2023 - 01/05/2023| UI Team Lead and UMG programmer in the studio [Fntastic](https://ru.fntastic.com/) |
 | Propnight |09/01/2023 - 05/03/2023| Blueprints programmer in the studio [Fntastic](https://ru.fntastic.com/). Link to [Propnight](https://www.propnight.com/) |
 | Pirate Clicker |01/09/2022 - 08/01/2023(Left the team)| A team project being developed in the studio [Dverg Verksted](https://github.com/Dverg-Verksted) for the Android platform on Unreal Engine 4. In the team as a UMG programmer. Link to [GitHub-Repo](https://github.com/Dverg-Verksted/PirateClicker). Link to [Itch io](https://dvergverksted.itch.io/pirate-clicker) |
 | Gilo |01/06/2022 - 08/01/2023| A team project being developed in the studio [Dverg Verksted](https://github.com/Dverg-Verksted) for the PC platform on Unreal Engine 5. In the team as a UMG programmer. Link to [Repo GitHub](https://github.com/Dverg-Verksted/Gilo). Link to [Itch io](https://dvergverksted.itch.io/horror-game) |
