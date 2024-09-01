@@ -17,6 +17,7 @@ I can program in Blueprints/C++ under the Unreal Engine 4/5:
 |:------------:|:------------------:|:-----------:|
 | Nikoderiko: The Magical World |25/01/2024 - present| UMG programmer in the studio [VEA Games](https://www.veagames.com/) |
 | The Golden Horde |19/12/2023 - present| Out Source C++ and UMG programmer in the studio [Doomers Entertainment](https://thegoldenhorde.uz/) |
+| NOVAE TERRAE |11/12/2023 - present| Out Source Engineer in the studio [UNHEARD](https://vk.com/unheardgames). Link to [NOVAE TERRAE](https://vkplay.ru/play/game/novae_terrae/?mt_link_id=wpejf5) |
 | The Day Before |01/05/2023 - 11/12/2023| Blueprints and UMG programmer in the studio [Fntastic](https://ru.fntastic.com/). Link to [The Day Before](https://www.daybeforegame.com/) |
 | *Not announced mobile project* |05/03/2023 - 01/05/2023| UI Team Lead and UMG programmer in the studio [Fntastic](https://ru.fntastic.com/) |
 | Propnight |09/01/2023 - 05/03/2023| Blueprints programmer in the studio [Fntastic](https://ru.fntastic.com/). Link to [Propnight](https://www.propnight.com/) |
