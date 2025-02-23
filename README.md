@@ -1,11 +1,10 @@
 # Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 I'm Sasha, I study game development.  
-I can program in Blueprints/C++ under the Unreal Engine 4/5:  
-* UMG: programming user interfaces
-* AI: programming behavior trees;
+I can program in BP/C++ under the Unreal Engine 4/5:  
+* UMG: programming user interfaces;
 * Animation programming;
-* Niagara VFX System;
+* Gameplay Ability System;
 * Writing readable, maintainable, yet fast and efficient code;  
 * Use math to solve many common coding problems.    
 
@@ -15,17 +14,16 @@ I can program in Blueprints/C++ under the Unreal Engine 4/5:
 ## List of game development projects
 | Project name | Development period | Description |
 |:------------:|:------------------:|:-----------:|
-| Nikoderiko: The Magical World |25/01/2024 - present| UMG Engineer in the studio [VEA Games](https://www.veagames.com/) |
-| The Golden Horde |19/12/2023 - present| Out Source C++ and UMG Engineer in the studio [Doomers Entertainment](https://thegoldenhorde.uz/) |
-| NOVAE TERRAE |11/12/2023 - present| Out Source С++ Engineer in the studio [UNHEARD](https://vk.com/unheardgames). Link to [NOVAE TERRAE](https://vkplay.ru/play/game/novae_terrae/?mt_link_id=wpejf5) |
-| The Day Before |01/05/2023 - 11/12/2023| Blueprint and UMG Engineer in the studio [Fntastic](https://ru.fntastic.com/). Link to [The Day Before](https://www.daybeforegame.com/) |
+| Nikoderiko: The Magical World |25/01/2024 - present| UMG Engineer in the studio [VEA Games](https://www.veagames.com/). Link to [Nikoderiko: The Magical World](https://store.steampowered.com/app/2374190/Nikoderiko/) |
+| The Golden Horde: Survival |19/12/2023 - present| Out Source C++ and UMG Engineer in the studio [Doomers Entertainment](https://thegoldenhorde.uz/). Link to [The Golden Horde: Survival](https://store.steampowered.com/app/3244040/The_Golden_Horde_Survival/) |
+| NOVAE TERRAE |11/12/2023 - 24/01/2024 (Left the team)| Out Source С++ Engineer in the studio [UNHEARD](https://vk.com/unheardgames). Link to [NOVAE TERRAE](https://vkplay.ru/play/game/novae_terrae/) |
+| The Day Before |01/05/2023 - 11/12/2023| UMG and Blueprint Engineer in the studio [Fntastic](https://ru.fntastic.com/). Link to [The Day Before](https://www.daybeforegame.com/) |
 | *Not announced mobile project* |05/03/2023 - 01/05/2023| UI Team Lead and UMG Engineer in the studio [Fntastic](https://ru.fntastic.com/) |
 | Propnight |09/01/2023 - 05/03/2023| Blueprint Engineer in the studio [Fntastic](https://ru.fntastic.com/). Link to [Propnight](https://www.propnight.com/) |
-| Pirate Clicker |01/09/2022 - 08/01/2023(Left the team)| A team project being developed in the studio [Dverg Verksted](https://github.com/Dverg-Verksted) for the Android platform on Unreal Engine 4. In the team as a UMG Engineer. Link to [GitHub-Repo](https://github.com/Dverg-Verksted/PirateClicker). Link to [Itch io](https://dvergverksted.itch.io/pirate-clicker) |
-| Gilo |01/06/2022 - 08/01/2023| A team project being developed in the studio [Dverg Verksted](https://github.com/Dverg-Verksted) for the PC platform on Unreal Engine 5. In the team as a UMG Engineer. Link to [Repo GitHub](https://github.com/Dverg-Verksted/Gilo). Link to [Itch io](https://dvergverksted.itch.io/horror-game) |
-| Little Wizard |05/12/2022 - 06/01/2023| Game development for the game jam “Game Devcember 2022”. In the team as a solo Blueprint Engineer. Link to [Repo GitHub](https://github.com/Por7ableWorlD/Little_Wizard). Link to [Itch io](https://por7ableworld.itch.io/little-wizard) |
+| Pirate Clicker |01/09/2022 - 08/01/2023 (Left the team)| UMG Engineer in the studio [Dverg Verksted](https://github.com/Dverg-Verksted). Link to [GitHub-Repo](https://github.com/Dverg-Verksted/PirateClicker). Link to [Itch io](https://dvergverksted.itch.io/pirate-clicker) |
+| Gilo |01/06/2022 - 08/01/2023| UMG Engineer in the studio [Dverg Verksted](https://github.com/Dverg-Verksted). Link to [GitHub-Repo](https://github.com/Dverg-Verksted/Gilo). Link to [Itch io](https://dvergverksted.itch.io/horror-game) |
+| Little Wizard |05/12/2022 - 06/01/2023| Game development for the game jam “Game Devcember 2022”. In the team as a solo Blueprint Engineer. Link to [GitHub-Repo](https://github.com/Por7ableWorlD/Little_Wizard). Link to [Itch io](https://por7ableworld.itch.io/little-wizard) |
 | Lost in Grass |01/10/2022 - 02/12/2022| Game development for the game jam “Cosmic Horrors Jam”. In the team as a solo Blueprint Engineer. Link to [Gameplay trailer](https://youtu.be/epFkhUCsgmA). Link to [Pitch](https://portfolio.hse.ru/Project/149348#149348_3263401) |
-| Arkanoid |05/08/2022 - 29/11/2022| A training project within the course on the Skillbox - "Разработчик игр на Unreal Engine 4". Link to [GitHub-Repo](https://github.com/Por7ableWorlD/Arkanoid). Link to [Itch io](https://por7ableworld.itch.io/arkanoid) |
 | STEREOCOMA |24/08/2022 - 28/08/2022| Game development for the game jam “Brackeys Game Jam 2022.2”. In the team as a solo Blueprint Engineer. Link to [Gameplay trailer](https://youtu.be/3MnY63UvC1o). Link to [Itch io](https://itch.io/jam/brackeys-8/rate/1680058) |
 
 ## Certificates
