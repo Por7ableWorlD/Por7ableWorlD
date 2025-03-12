@@ -2,9 +2,10 @@
 
 I'm Sasha, I study game development.  
 I can program in BP/C++ under the Unreal Engine 4/5:  
-* UMG: programming user interfaces;
-* Animation programming;
-* Gameplay Ability System;
+* UMG: full-cycle development of game interfaces, including visual design, implementation, and functionality;
+* Animation programming: State machines, Blend Spaces, Animation Montages and Notifies;
+* Niagara UI Renderer: Implemented UI-based visual effects
+* Gameplay Ability System: Implemented basic gameplay abilities;
 * Writing readable, maintainable, yet fast and efficient code;  
 * Use math to solve many common coding problems.    
 
