@@ -23,45 +23,69 @@ Focused on Unreal Motion Graphics and coding in both C++ and Blueprint.
 ## Projects
 
 ### Commercial Titles
-| Project name | Development period | Role & Studio | Links |
-|:---------------:|:---------------:|:---------------:|:---------:|
-| Nikoderiko: The Magical World |Jan 2024 – Present| UMG Engineer — [VEA Games](https://www.veagames.com/).| [Steam](https://store.steampowered.com/app/2374190/Nikoderiko/) |
-| The Day Before |May 2023 – Dec 2023| UMG & Blueprint Engineer — [Fntastic](https://ru.fntastic.com/).| [Steam](https://store.steampowered.com/app/1372880/The_Day_Before/) |
-| *Cancelled mobile project* |Mar 2023 – May 2023| UI Team Lead & UMG Engineer — [Fntastic](https://ru.fntastic.com/).| Reference:<br>[Vampire Survivors](https://store.steampowered.com/app/1794680/Vampire_Survivors/), [Survivor.io](https://www.bluestacks.com/ru/apps/adventure/survivor-io-on-pc.html?search=Survivor\.io) |
-| Propnight |Jan 2023 – Mar 2023| Blueprint Engineer — [Fntastic](https://ru.fntastic.com/).| [Steam](https://store.steampowered.com/app/1549180/Propnight/) |
+| Name | Period | Role & Studio | Links |
+|:-----:|:-----:|:-----:|:-----:|
+| Nikoderiko: The Magical World |Jan 2024 – Present| UMG Engineer — [VEA Games](https://www.veagames.com/)| [Steam](https://store.steampowered.com/app/2374190/Nikoderiko/) |
+| The Day Before |May 2023 – Dec 2023| UMG & Blueprint Engineer — [Fntastic](https://ru.fntastic.com/)| [Steam](https://store.steampowered.com/app/1372880/The_Day_Before/) |
+| *Cancelled mobile project* |Mar 2023 – May 2023| UI Team Lead & UMG Engineer — [Fntastic](https://ru.fntastic.com/)| Reference:<br>[Vampire Survivors](https://store.steampowered.com/app/1794680/Vampire_Survivors/) / [Survivor.io](https://www.bluestacks.com/ru/apps/adventure/survivor-io-on-pc.html?search=Survivor\.io) |
+| Propnight |Jan 2023 – Mar 2023| Blueprint Engineer — [Fntastic](https://ru.fntastic.com/)| [Steam](https://store.steampowered.com/app/1549180/Propnight/) |
 
-#### Key Achievements
-- **Nikoderiko: The Magical World** (VEA Games):<br>
-  • 
-  • 
+#### Key Achievements (Commercial Titles)
+- ***Nikoderiko: The Magical World (UMG Engineer)***:<br>
+  • Developed and integrated main menu and all secondary UI screens (pause and levels menus, popups, HUD variants) based on design mockups;<br>
+  • Built and programmed comprehensive settings UI (audio controls, language switching, quality, brightness/contrast, keybindings, resolution, window mode) with full localization support;<br>
+  • Implemented in-game shop UI, including item drop-chance generation and purchase mechanics using in-game currency;<br>
+  • Prepared custom UI screens and elements to meet platform certification requirements.
 
-- **The Day Before** (Fntastic):<br>
-  • 
-  • 
+- ***The Day Before (UMG & Blueprint Engineer)***:<br>
+  • Built full-cycle in-game shop UIs for purchasing vehicles, food, and houses; implemented a furniture purchasing and placement system for owned properties;<br>
+  • Implemented weapon attachment system, enabling dynamic adding and removing of attachments with correct visual updates;<br>
+  • Designed and implemented HUD notification system, matching alerts for current quests and major in-game events;<br>
+  • Animated inventory and crafting screens based on design mockups.
 
-- **Propnight** (Fntastic):<br>
-  • 
-  • 
+- ***Cancelled mobile project (UI Team Lead & UMG Engineer)***:<br>
+  • Designed UI architecture, managed task assignments, tracked progress and code reviews;<br>
+  • Developed a cheat system to enable rapid testing of game features.
+
+- ***Propnight (Blueprint Engineer)***:<br>
+  • Created and implemented a new AI ability for the character Aisha;<br>
+  • Implemented spectator UI to display interaction prompts when survivors interact with objects;<br>
+  • Corrected ability animation bugs for Banshee, Granny, and Sheet-Man;<br>
+  • Fixed camera bugs for players spectating survivors.
+
+### Team Projects
+| Name | Period | Role & Studio |  Links |
+|:-----:|:-----:|:-----:|:-----:|
+| The Golden Horde: Survival |Dec 2023 – Present| Outsource C++ & UMG Engineer — [Doomers Entertainment](https://thegoldenhorde.uz/)| [Steam](https://store.steampowered.com/app/3244040/The_Golden_Horde_Survival/) |
+| NOVAE TERRAE |Dec 2023 – Jan 2024| Outsource C++ Engineer — [UNHEARD](https://vk.com/unheardgames)| [VK Play](https://vkplay.ru/play/game/novae_terrae/) |
+| Pirate Clicker |Sep 2022 – Jan 2023| UMG Engineer — [Dverg Verksted](https://github.com/Dverg-Verksted)| [GitHub](https://github.com/Dverg-Verksted/PirateClicker) and [Itch.io](https://dvergverksted.itch.io/pirate-clicker) |
+| Gilo |Jun 2022 – Jan 2023| UMG Engineer — [Dverg Verksted](https://github.com/Dverg-Verksted)| [GitHub](https://github.com/Dverg-Verksted/Gilo) and [Itch.io](https://dvergverksted.itch.io/horror-game) |
+
+#### Key Achievements (Team Projects)
+- ***The Golden Horde: Survival (Outsource C++ & UMG Engineer)***:<br>
+  • Implemented a surface detection system to play appropriate footstep sounds;<br>
+  • Applied final design corrections to the game's UI system.
+
+- ***NOVAE TERRAE (Outsource C++ Engineer)***:<br>
+  • Developed core C++ systems: movement, health management, death/respawn logic, and damage processing with damage-type detection;<br>
+  • Created a basic Animation Blueprint for character movement.
+
+- ***Pirate Clicker (UMG Engineer)***:<br>
+  • Built and implemented core 3D in-world widgets, including central defense point indicators, mob HP bars, and other interactive elements;<br>
+  • Developed a player ability UI system, enabling selection and activation of abilities;<br>
+  • Integrated Niagara UI effects for various UI elements.
   
-- **Cancelled mobile project** (Fntastic):<br>
-  • 
-  • 
-
-### Informal Team Projects
-| Project name | Development period | Role & Studio |  Links |
-|:---------------:|:---------------:|:-----------:|:-----------:|
-| The Golden Horde: Survival |19/12/2023 - present| Out Source C++ and UMG Engineer in the studio [Doomers Entertainment](https://thegoldenhorde.uz/). Link to [The Golden Horde: Survival](https://store.steampowered.com/app/3244040/The_Golden_Horde_Survival/) |
-| NOVAE TERRAE |11/12/2023 - 24/01/2024 (Left the team)| Out Source С++ Engineer in the studio [UNHEARD](https://vk.com/unheardgames). Link to [NOVAE TERRAE](https://vkplay.ru/play/game/novae_terrae/) |
-| Pirate Clicker |01/09/2022 - 08/01/2023 (Left the team)| UMG Engineer in the studio [Dverg Verksted](https://github.com/Dverg-Verksted). Link to [GitHub-Repo](https://github.com/Dverg-Verksted/PirateClicker). Link to [Itch io](https://dvergverksted.itch.io/pirate-clicker) |
-| Gilo |01/06/2022 - 08/01/2023| UMG Engineer in the studio [Dverg Verksted](https://github.com/Dverg-Verksted). Link to [GitHub-Repo](https://github.com/Dverg-Verksted/Gilo). Link to [Itch io](https://dvergverksted.itch.io/horror-game) |
-
+- ***Gilo (UMG Engineer)***:<br>
+  • Created the main menu system, including full animation implementation;<br>
+  • Created in-game 3D interactive UI elements.
+  
 ### Game Jams
-| Project name | Development period | Role & Studio |  Links |
-|:---------------:|:---------------:|:-----------:|:-----------:|
-| Little Wizard |05/12/2022 - 06/01/2023| Game development for the game jam “Game Devcember 2022”. In the team as a solo Blueprint Engineer. Link to [GitHub-Repo](https://github.com/Por7ableWorlD/Little_Wizard). Link to [Itch io](https://por7ableworld.itch.io/little-wizard) |
-| Lost in Grass |01/10/2022 - 02/12/2022| Game development for the game jam “Cosmic Horrors Jam”. In the team as a solo Blueprint Engineer. Link to [Gameplay trailer](https://youtu.be/epFkhUCsgmA). Link to [Pitch](https://portfolio.hse.ru/Project/149348#149348_3263401) |
-| STEREOCOMA |24/08/2022 - 28/08/2022| Game development for the game jam “Brackeys Game Jam 2022.2”. In the team as a solo Blueprint Engineer. Link to [Gameplay trailer](https://youtu.be/3MnY63UvC1o). Link to [Itch io](https://itch.io/jam/brackeys-8/rate/1680058) |
+| Name | Jam | Period | Role |  Links |
+|:-----:|:-----:|:-----:|:-----:|:-----:|
+| Little Wizard |Game Devcember 2022|Dec 2022 – Jan 2023| Solo Blueprint Engineer | [GitHub](https://github.com/Por7ableWorlD/Little_Wizard) and [Itch.io](https://por7ableworld.itch.io/little-wizard) |
+| Lost in Grass |Cosmic Horrors Jam|Oct 2022 – Dec 2022| Solo Blueprint Engineer | [Gameplay Trailer](https://youtu.be/epFkhUCsgmA) and [Pitch](https://portfolio.hse.ru/Project/149348#149348_3263401) |
+| STEREOCOMA |Brackeys Game Jam 2022.2|Aug 2022| Solo Blueprint Engineer | [Gameplay Trailer](https://youtu.be/3MnY63UvC1o) and [Itch.io](https://itch.io/jam/brackeys-8/rate/1680058) |
 
 ## Certificates
-* [EPAM Systems, Тренинг по направлениям .NET/WEB-разработка](https://drive.google.com/file/d/1b6xx28p_QM6FbyuxRjVeUYWLmZgQgvCo/view)  
-* [Aptech Computer Education, Международная авторизованная программа программирования ACSTS (Aptech Certified Software Technology Specialist)](https://drive.google.com/file/d/1PWX7pavxeaKBpJs4jzXfZl-POjCK4Ymh/view)  
+* [EPAM Systems — .NET/Web Development Training (certificate)](https://drive.google.com/file/d/1b6xx28p_QM6FbyuxRjVeUYWLmZgQgvCo/view)  
+* [Aptech Computer Education — ACSTS (Aptech Certified Software Technology Specialist) Program](https://drive.google.com/file/d/1PWX7pavxeaKBpJs4jzXfZl-POjCK4Ymh/view)  
