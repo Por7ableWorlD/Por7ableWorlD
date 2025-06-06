@@ -3,11 +3,11 @@
 I'm Sasha, I study game development.  
 I can program in BP/C++ under the Unreal Engine 4/5:  
 * UMG: full-cycle development of game interfaces, including visual design, implementation, and functionality;
-* Animation programming: State machines, Blend Spaces, Animation Montages and Notifies;
-* Niagara UI Renderer: Implemented UI-based visual effects
-* Gameplay Ability System: Implemented basic gameplay abilities;
-* Writing readable, maintainable, yet fast and efficient code;  
-* Use math to solve many common coding problems.    
+* Figma: full-cycle creation of texture atlases for engine-based sprite slicing;
+* Animation Programming: state machines, Blend Spaces, Animation Montages and Notifies;
+* Niagara UI Renderer: implement UI-based visual effects;
+* Gameplay Ability System: implement basic gameplay abilities;
+* Coding: writing readable, maintainable, fast, and efficient code.    
 
 
 ## Skills <img src="https://user-images.githubusercontent.com/34418187/202911895-f5e9690b-9772-4c3a-8ba6-d6ad2039e3b4.gif" width="30px">
