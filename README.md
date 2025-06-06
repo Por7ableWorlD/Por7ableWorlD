@@ -16,9 +16,17 @@ Focused on Unreal Motion Graphics and coding in both C++ and Blueprint.
 * **Animation Programming:** state machines, Blend Spaces, Animation Montages and Notifies;
 * **Niagara UI Renderer:** implement UI-based visual effects;
 * **Gameplay Ability System:** implement basic gameplay abilities;
+* **Profiling**: Widget Reflector, Blueprint Debugger;
+* **Tools:** Git, PlasticSCM, SVN, Jira, Trello, Notion;
 * **Coding:** writing readable, maintainable, fast, and efficient code.
 
-<img alt="Unreal Engine" src="https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white"/> <img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/> <img alt="Visual Studio Code" src="https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/> <img alt="Visual Studio" src="https://img.shields.io/badge/VisualStudio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white"/> <img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/> ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+[![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)](https://www.unrealengine.com/)
+[![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://isocpp.org/)
+[![Visual Studio](https://img.shields.io/badge/VisualStudio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)](https://visualstudio.microsoft.com/)
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
+[![Jira](https://img.shields.io/badge/Jira-%230052CC.svg?style=for-the-badge&logo=jira&logoColor=white)](https://www.atlassian.com/software/jira)
+[![Trello](https://img.shields.io/badge/Trello-%230079BF.svg?style=for-the-badge&logo=trello&logoColor=white)](https://trello.com/)
+[![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/)
 
 ## Projects
 
