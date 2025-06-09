@@ -61,7 +61,7 @@ Focused on Unreal Motion Graphics and coding in both C++ and Blueprint.
 ### Team Projects
 | Name | Period | Role & Studio |  Links |
 |:-----:|:-----:|:-----:|:-----:|
-| The Golden Horde: Survival |Dec 2023 – Present| Outsource C++ & UMG Engineer — [Doomers Entertainment](https://thegoldenhorde.uz/)| [Steam](https://store.steampowered.com/app/3244040/The_Golden_Horde_Survival/) |
+| The Golden Horde: Survival |Dec 2023 – Jan 2024| Outsource C++ & UMG Engineer — [Doomers Entertainment](https://thegoldenhorde.uz/)| [Steam](https://store.steampowered.com/app/3244040/The_Golden_Horde_Survival/) |
 | NOVAE TERRAE |Dec 2023 – Jan 2024| Outsource C++ Engineer — [UNHEARD](https://vk.com/unheardgames)| [VK Play](https://vkplay.ru/play/game/novae_terrae/) |
 | Pirate Clicker |Sep 2022 – Jan 2023| UMG Engineer — [Dverg Verksted](https://github.com/Dverg-Verksted)| [GitHub](https://github.com/Dverg-Verksted/PirateClicker) and [Itch.io](https://dvergverksted.itch.io/pirate-clicker) |
 | Gilo |Jun 2022 – Jan 2023| UMG Engineer — [Dverg Verksted](https://github.com/Dverg-Verksted)| [GitHub](https://github.com/Dverg-Verksted/Gilo) and [Itch.io](https://dvergverksted.itch.io/horror-game) |
