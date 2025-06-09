@@ -1,6 +1,6 @@
 # Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-I’m Sasha — an Unreal Engine developer.<br>
+I’m Sasha — an Unreal Engine UI and Gameplay developer.<br>
 Focused on Unreal Motion Graphics and coding in both C++ and Blueprint.
 
 > Telegram: `@PuFanN`<br>
@@ -11,22 +11,19 @@ Focused on Unreal Motion Graphics and coding in both C++ and Blueprint.
 
 ## Skills <img src="https://user-images.githubusercontent.com/34418187/202911895-f5e9690b-9772-4c3a-8ba6-d6ad2039e3b4.gif" width="30px">
 
-* **UMG:** full-cycle development of game interfaces, including visual design, implementation, and functionality;
+* **Unreal Motion Graphics (UMG):** full-cycle development of game interfaces, including visual design, implementation, and functionality;
 * **Figma:** full-cycle creation of texture atlases for engine sprite slicing;
-* **Animation Programming:** state machines, Blend Spaces, Animation Montages and Notifies;
+* **Animation Programming:** state machines, blend spaces, animation montages and notifies;
 * **Niagara UI Renderer:** implement UI-based visual effects;
 * **Gameplay Ability System:** implement basic gameplay abilities;
-* **Profiling**: Widget Reflector, Blueprint Debugger;
-* **Tools:** Git, PlasticSCM, SVN, Jira, Trello, Notion;
-* **Coding:** writing readable, maintainable, fast, and efficient code.
+* **Profiling**: widget reflector, unreal insights, session frontend;
+* **Tools:** git, plasticSCM, SVN, Jira, Trello, Notion.
 
 [![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)](https://www.unrealengine.com/)
 [![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://isocpp.org/)
 [![Visual Studio](https://img.shields.io/badge/VisualStudio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)](https://visualstudio.microsoft.com/)
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
 [![Jira](https://img.shields.io/badge/Jira-%230052CC.svg?style=for-the-badge&logo=jira&logoColor=white)](https://www.atlassian.com/software/jira)
-[![Trello](https://img.shields.io/badge/Trello-%230079BF.svg?style=for-the-badge&logo=trello&logoColor=white)](https://trello.com/)
-[![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/)
 
 ## Projects
 
